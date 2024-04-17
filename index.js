@@ -1,4 +1,4 @@
-#! /usr/bin/env code
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const randomNum = Math.floor(Math.random() * 10 + 1);
 const answer = await inquirer.prompt([
