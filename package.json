@@ -1,15 +1,18 @@
 {
   "name": "number-guessing-game-mshsheikh",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "It's a simple command line number guessing game, created by using TypeScript, NodeJS, InquirerJS and NPM.",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhammad Salman Hussain (mshsheikh)",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.18"
   },
