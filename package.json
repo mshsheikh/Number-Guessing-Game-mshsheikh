@@ -1,7 +1,7 @@
 {
-  "name": "number-guessing-game-mshsheikh",
-  "version": "1.0.4",
-  "description": "It's a simple command line number guessing game, created by using TypeScript, NodeJS, InquirerJS and NPM.",
+  "name": "ngg-mshsheikh",
+  "version": "1.0.0",
+  "description": "It's a simple CLI based number guessing game, developed with TypeScript, NodeJS, InquirerJS and NPM, by Muhammad Salman Hussain.",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
